@@ -1,0 +1,37 @@
+Cause,Gender,Homicide Count
+Abuse,Female,1
+Abuse,Male,6
+Arson,Female,9
+Arson,Male,23
+Asphyxia,Female,4
+Asphyxia,Male,10
+Assault,Female,12
+Assault,Male,99
+Auto Crash,Female,5
+Auto Crash,Male,26
+Child Abuse,Female,3
+Child Abuse,Male,30
+Drowning,Male,2
+Electrocution,Male,1
+Fall from Height,Male,1
+Gunshot,,1
+Gunshot,Female,410
+Gunshot,Male,3188
+Hanging,Male,1
+Neglect,Female,1
+Neglect,Male,1
+Poisoning,Male,1
+Restraint,Male,1
+Sharp-Force injuries,Female,2
+Sharp-Force injuries,Male,2
+Stabbing,Female,46
+Stabbing,Male,292
+Strangling,Female,12
+Strangling,Male,64
+Stress from robbery,Male,1
+Suffocation,Female,1
+Suffocation,Male,1
+Trauma,Female,16
+Trauma,Male,69
+Unknown,Female,5
+Unknown,Male,21

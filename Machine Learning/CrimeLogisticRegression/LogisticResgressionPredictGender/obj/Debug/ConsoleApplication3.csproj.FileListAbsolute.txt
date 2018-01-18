@@ -1,0 +1,16 @@
+F:\Learning Stuff\C#\Prctice\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+F:\Learning Stuff\C#\Prctice\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\Learning Stuff\C#\Prctice\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\Learning Stuff\C#\Prctice\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+F:\Learning Stuff\C#\Prctice\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+F:\Learning Stuff\C#\Prctice\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+F:\Learning Stuff\C#\Prctice\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.UserInput.resources
+F:\Learning Stuff\C#\Prctice\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.GenerateResource.Cache
+F:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+F:\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+F:\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+F:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+F:\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.UserInput.resources
+F:\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.GenerateResource.Cache
